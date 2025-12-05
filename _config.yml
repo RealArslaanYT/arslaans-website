@@ -10,7 +10,7 @@ author:
 #
 # The `>` after `description:` means to ignore line-breaks until next key. If
 #   you wish to omit the line-break after the end of text, use `>-` instead.
-description: "12-year-old developer exploring programming, Linux, FOSS, iOS jailbreaking, and game development."
+description: "12-year-old developer exploring programming, Linux, FOSS, iOS jailbreaking, embedded systems, and game development."
 
 plugins:
  - jekyll-feed
